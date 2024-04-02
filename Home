@@ -1,4 +1,8 @@
-Doctype html!
+<!doctype html>
 <html>
-<p> hi <p>
+<head>
+</head>
+<body>
+<p> hi </p>
+</body>
 </html>
